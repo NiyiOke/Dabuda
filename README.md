@@ -15,4 +15,4 @@ To view the website locally, open `website/index.html` in your browser.
 
 ## Automated Music Pipeline
 
-The `music_pipeline` directory contains a simple example showing how to generate music, turn it into a video and upload it to YouTube automatically. See `music_pipeline/README.md` for details.
+The `music_pipeline` directory contains an automated workflow that generates a one-hour chill Amapiano track, turns it into a video and uploads it to YouTube. See `music_pipeline/README.md` for details.

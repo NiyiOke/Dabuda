@@ -18,7 +18,7 @@ pip install pydub Pillow google-api-python-client google-auth-oauthlib
 3. Run `python upload_to_youtube.py` once to complete OAuth. A `token.pickle` file will be created for future authentication.
 
 ## Usage
-Run `python main.py` to generate a one-minute track, create a video and upload it to your YouTube channel. The script can be scheduled daily using cron or any scheduler.
+Run `python main.py` to generate a **one-hour chill Amapiano track**, create a video and upload it to your YouTube channel. The script can be scheduled daily using cron or any scheduler.
 
 ```bash
 0 0 * * * /usr/bin/python /path/to/main.py

@@ -31,6 +31,8 @@ def create_video(audio_file='output.mp3', video_file='output.mp4', cover_file='c
         audio_file,
         '-c:v',
         'libx264',
+        '-pix_fmt',
+        'yuv420p',
         '-c:a',
         'aac',
         '-shortest',
