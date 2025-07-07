@@ -12,3 +12,7 @@ This repository contains a simple static website that introduces Nigeria's NINâ€
 - `contact.html` â€“ Contact form
 
 To view the website locally, open `website/index.html` in your browser.
+
+## Automated Music Pipeline
+
+The `music_pipeline` directory contains a simple example showing how to generate music, turn it into a video and upload it to YouTube automatically. See `music_pipeline/README.md` for details.
